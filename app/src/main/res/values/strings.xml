@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="fragment_favorite_bank_tv_currency">Валюта</string>
+    <string name="fragment_favorite_bank_tv_ask">Продажа</string>
+    <string name="fragment_favorite_bank_tv_bid">Покупка</string>
+    <string name="fragment_favorite_bank_tv_title">Избранный банк</string>
+    <string name="activity_bankInfo_tv_region">Область: </string>
+    <string name="activity_bankInfo_tv_phone">Телфон:</string>
+    <string name="activity_bankIfo_tv_city">Город:</string>
+    <string name="activity_bankIfo_tv_street">Адресс:</string>
+    <string name="main_menu_action_search">Поиск</string>
+    <string name="search_hint">Поиск</string>
+</resources>
